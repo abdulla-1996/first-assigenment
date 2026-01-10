@@ -130,3 +130,25 @@ background: rgba(255, 255, 255, 1);
 .solution-content-text .icon-text p{
     display: flex;gap: 5px;color: #001931;font-weight: 800px;line-height: 20px;font-size: 17px;padding-bottom: 5px;
 }
+/*think section design*/
+#think{
+    width: 100%;height:480px;
+}
+#think .think-container{
+background-color: #dbdfe2;height: 384px;width: 1360px;margin: 0 auto;text-align: center;
+}
+.h-cont-items{
+padding: 80px;
+}
+.h-cont-items h3{
+    font-size: 40px;font-weight: 700px;line-height: 48px;color:#001931;margin-bottom: 20px;
+}
+.h-cont-items p{
+    color: #627382;font-weight: 400;margin-bottom: 18px;
+}
+.h-cont-items button{margin-bottom: 10px;}
+#think .think-container button{width: 194px;}
+
+
+
+
